@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+color: white;
+}
+ul{
+    color: white;
+}
+tr{
+    color: white;
+}
+td {
+    color: white;
+}
+hr{
+    color: white;
+}
+.s15{
+    
+    border-radius: 20px;
+    width: 400px;
+    box-shadow: 4px 4px 14px rgba(255, 225, 255, 255)
+}
+.s13{
+    border-radius: 20px;
+    width: 400px;
+    box-shadow: 4px 4px 14px rgba(255, 225, 255, 255)
+}
+.gtr35{
+    border-radius: 20px;
+    width: 400px;
+    box-shadow: 4px 4px 14px rgba(255, 225, 255, 255)
+}
+
+
+.silvia p{
+    color: white;
+    margin: 0;
+}
+.gtr p{
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+.silvia13 p{
+    color: white;
+    margin: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+ color: wheat;
+}
+a:visited{
+    color: grey;
+}
+    
+    
